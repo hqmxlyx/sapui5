@@ -6,7 +6,11 @@
 <<<<<<< HEAD
 				    <Button text="Button" width="100px" id="__button5"/>
 =======
+<<<<<<< HEAD
+				    <Button text="Button" width="100px" id="__button5"/>
+=======
 >>>>>>> branch 'master' of https://github.com/hqmxlyx/sapui5.git
+>>>>>>> b10bf004fc36c0b359c8a5201990333232bfbfe7
 				    <Button text="Button" width="100px" id="__button1"/>
 				</content>
 			</Page>
