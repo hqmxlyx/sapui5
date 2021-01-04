@@ -3,6 +3,10 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
+<<<<<<< HEAD
+				    <Button text="Button" width="100px" id="__button5"/>
+=======
+>>>>>>> branch 'master' of https://github.com/hqmxlyx/sapui5.git
 				    <Button text="Button" width="100px" id="__button1"/>
 				</content>
 			</Page>
