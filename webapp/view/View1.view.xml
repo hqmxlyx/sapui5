@@ -6,7 +6,6 @@
 				    <Button text="Button" width="100px" id="__button5"/>
 				    <Button text="Button" width="100px" id="__button1"/>
 				    <Button text="Button" width="100px" id="__button2"/>
-				    <Button text="Button" width="100px" id="__button3"/>
 				</content>
 			</Page>
 		</pages>
